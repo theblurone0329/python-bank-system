@@ -1,6 +1,3 @@
-#Student Name: ADRIAN FU WENG LAM
-#TP Number: TP066031 
-
 import datetime
 import os
 
